@@ -62,9 +62,13 @@ namespace UF5_EX1
             //EX14_ARRAY6 ex14 = new EX14_ARRAY6();
             //ex14.inicio();
 
-            // Ejercicio 15
-            Invertir inv = new Invertir();
-            inv.invertirArrays();
+            //// Ejercicio 15
+            //Invertir inv = new Invertir();
+            //inv.invertirArrays();
+
+            // Ejercicio 16
+            Capicua cp = new Capicua();
+            cp.inicio();
         }
     }
 }
