@@ -35,8 +35,12 @@ namespace UF5_EX1
             //conv.convertirMonedas();
 
             // Ejercicio 8
-            EX8_ARRAY1 ex8 = new EX8_ARRAY1();
-            ex8.array1();
+            //EX8_ARRAY1 ex8 = new EX8_ARRAY1();
+            //ex8.array1();
+
+            // Ejercicio 9
+            EX9_ARRAY2 ex9 = new EX9_ARRAY2();
+            ex9.array2();
 
         }
     }
