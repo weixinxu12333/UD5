@@ -58,10 +58,13 @@ namespace UF5_EX1
             //EX13_ARRAY5 ex13 = new EX13_ARRAY5();
             //ex13.inicio();
 
-            // Ejercicio 14
-            EX14_ARRAY6 ex14 = new EX14_ARRAY6();
-            ex14.inicio();
+            //// Ejercicio 14
+            //EX14_ARRAY6 ex14 = new EX14_ARRAY6();
+            //ex14.inicio();
 
+            // Ejercicio 15
+            Invertir inv = new Invertir();
+            inv.invertirArrays();
         }
     }
 }
