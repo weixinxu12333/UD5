@@ -42,9 +42,13 @@ namespace UF5_EX1
             //EX9_ARRAY2 ex9 = new EX9_ARRAY2();
             //ex9.array2();
 
-            // Ejercicio 10
-            Tabla t = new Tabla();
-            t.inicio();
+            //// Ejercicio 10
+            //Tabla t = new Tabla();
+            //t.inicio();
+
+            // Ejercicio 11
+            EX11_ARRAY3 ex11 = new EX11_ARRAY3();
+            ex11.array3();
 
         }
     }
