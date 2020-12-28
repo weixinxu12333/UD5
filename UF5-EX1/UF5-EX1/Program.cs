@@ -50,9 +50,13 @@ namespace UF5_EX1
             //EX11_ARRAY3 ex11 = new EX11_ARRAY3();
             //ex11.array3();
 
-            // Ejercicio 12
-            EX12_ARRAY4 ex12 = new EX12_ARRAY4();
-            ex12.array4();
+            //// Ejercicio 12
+            //EX12_ARRAY4 ex12 = new EX12_ARRAY4();
+            //ex12.array4();
+
+            // Ejercicio 13
+            EX13_ARRAY5 ex13 = new EX13_ARRAY5();
+            ex13.inicio();
 
         }
     }
