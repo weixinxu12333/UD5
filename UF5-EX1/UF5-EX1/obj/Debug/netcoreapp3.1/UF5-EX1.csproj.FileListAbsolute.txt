@@ -1,0 +1,13 @@
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\bin\Debug\netcoreapp3.1\UF5-EX1.exe
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\bin\Debug\netcoreapp3.1\UF5-EX1.deps.json
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\bin\Debug\netcoreapp3.1\UF5-EX1.runtimeconfig.json
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\bin\Debug\netcoreapp3.1\UF5-EX1.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\bin\Debug\netcoreapp3.1\UF5-EX1.dll
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\bin\Debug\netcoreapp3.1\UF5-EX1.pdb
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\obj\Debug\netcoreapp3.1\UF5-EX1.csprojAssemblyReference.cache
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\obj\Debug\netcoreapp3.1\UF5-EX1.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\obj\Debug\netcoreapp3.1\UF5-EX1.AssemblyInfo.cs
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\obj\Debug\netcoreapp3.1\UF5-EX1.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\obj\Debug\netcoreapp3.1\UF5-EX1.dll
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\obj\Debug\netcoreapp3.1\UF5-EX1.pdb
+C:\Users\wendy\source\repos\UF5-EX1\UF5-EX1\obj\Debug\netcoreapp3.1\UF5-EX1.genruntimeconfig.cache
