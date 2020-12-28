@@ -11,9 +11,12 @@ namespace UF5_EX1
             //calculo.inicio();
 
             // Ejercicio 2
-            Aleatorios al = new Aleatorios();
-            al.inicio();
+            //Aleatorios al = new Aleatorios();
+            //al.inicio();
 
+            // Ejercicio 3
+            Primo p = new Primo();
+            p.inicio();
 
         }
     }
