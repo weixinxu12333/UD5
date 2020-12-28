@@ -19,8 +19,12 @@ namespace UF5_EX1
             //p.inicio();
 
             // Ejercicio 4
-            Factorial f = new Factorial();
-            f.inicio();
+            //Factorial f = new Factorial();
+            //f.inicio();
+
+            // Ejercicio 5
+            Binario b = new Binario();
+            b.inicio();
 
         }
     }
