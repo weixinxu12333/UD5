@@ -27,8 +27,12 @@ namespace UF5_EX1
             //b.inicio();
 
             // Ejercicio 6
-            Cifras c = new Cifras();
-            c.inicio();
+            //Cifras c = new Cifras();
+            //c.inicio();
+
+            // Ejercicio 7
+            Convertir conv = new Convertir();
+            conv.convertirMonedas();
 
         }
     }
