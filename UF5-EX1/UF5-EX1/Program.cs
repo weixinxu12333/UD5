@@ -23,8 +23,12 @@ namespace UF5_EX1
             //f.inicio();
 
             // Ejercicio 5
-            Binario b = new Binario();
-            b.inicio();
+            //Binario b = new Binario();
+            //b.inicio();
+
+            // Ejercicio 6
+            Cifras c = new Cifras();
+            c.inicio();
 
         }
     }
