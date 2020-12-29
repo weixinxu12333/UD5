@@ -70,9 +70,13 @@ namespace UF5_EX1
             //Capicua cp = new Capicua();
             //cp.inicio();
 
-            // Ejercicio 17
-            ArrayManualmente am = new ArrayManualmente();
-            am.inicio();
+            //// Ejercicio 17
+            //ArrayManualmente am = new ArrayManualmente();
+            //am.inicio();
+
+            // Ejercicio 18
+            EX18_ARRAY7 ex18 = new EX18_ARRAY7();
+            ex18.inicio();
         }
     }
 }
