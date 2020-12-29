@@ -49,7 +49,7 @@ namespace UF5_EX1
             do
             {
                 num = rd.Next(men, may + 1);
-            } while (!Helpers.isPrime(num));
+            } while (!Helpers.IsPrime(num));
             return num;
         }
 
