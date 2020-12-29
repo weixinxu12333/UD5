@@ -66,9 +66,13 @@ namespace UF5_EX1
             //Invertir inv = new Invertir();
             //inv.invertirArrays();
 
-            // Ejercicio 16
-            Capicua cp = new Capicua();
-            cp.inicio();
+            //// Ejercicio 16
+            //Capicua cp = new Capicua();
+            //cp.inicio();
+
+            // Ejercicio 17
+            ArrayManualmente am = new ArrayManualmente();
+            am.inicio();
         }
     }
 }
