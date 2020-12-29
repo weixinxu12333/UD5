@@ -9,8 +9,8 @@ namespace UF5_EX1
         public static bool isPrime(int val) 
         {
             for (int i = 2; i < val; i++)
-                if (val % i == 0) return true;
-            return false;
+                if (val % i == 0) return false;
+            return true;
         }
     }
 }

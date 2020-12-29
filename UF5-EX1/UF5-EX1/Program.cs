@@ -74,9 +74,13 @@ namespace UF5_EX1
             //ArrayManualmente am = new ArrayManualmente();
             //am.inicio();
 
-            // Ejercicio 18
-            EX18_ARRAY7 ex18 = new EX18_ARRAY7();
-            ex18.inicio();
+            //// Ejercicio 18
+            //EX18_ARRAY7 ex18 = new EX18_ARRAY7();
+            //ex18.inicio();
+
+            // Ejercicio 19
+            EX19_ARRAY8 ex19 = new EX19_ARRAY8();
+            ex19.inicio();
         }
     }
 }

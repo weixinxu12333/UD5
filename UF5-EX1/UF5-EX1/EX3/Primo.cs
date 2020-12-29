@@ -10,7 +10,7 @@ namespace UF5_EX1
         {
             Console.WriteLine("Introduce un numero para ver si es primo o no:");
             int num = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"El numero {(Helpers.isPrime(num) ? "no " : "")}es primo");
+            Console.WriteLine($"El numero {(!Helpers.isPrime(num) ? "no " : "")}es primo");
         }
     }
 }
