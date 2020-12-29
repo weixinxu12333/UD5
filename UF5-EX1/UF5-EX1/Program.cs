@@ -82,9 +82,13 @@ namespace UF5_EX1
             //EX19_ARRAY8 ex19 = new EX19_ARRAY8();
             //ex19.inicio();
 
-            // Ejercicio 20
-            EX20_ARRAY9 ex20 = new EX20_ARRAY9();
-            ex20.inicio();
+            //// Ejercicio 20
+            //EX20_ARRAY9 ex20 = new EX20_ARRAY9();
+            //ex20.inicio();
+
+            // Ejercicio 21
+            EX21_ARRAY10 ex21 = new EX21_ARRAY10();
+            ex21.inicio();
         }
     }
 }
